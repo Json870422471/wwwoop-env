@@ -79,7 +79,7 @@ wwwoop-env/
 | PHP | php-8.5.5-nts-Win32-vs17-x64.zip | PHP 8.5 NTS x64 |
 | Composer | composer.zip | PHP 包管理工具 |
 
-> **注意**：由于安装包文件过大，`installation-package/` 目录中的安装包不会提交到仓库。请在项目的 **Releases** 中下载对应发行版本即可获取完整的内置安装包。
+> **注意**：由于安装包文件过大，`installation-package/` 目录中的安装包不会提交到仓库。请在项目的 **Releases** 中下载对应发行版本即可获取完整的内置安装包（Gitee 码云仓库文件大小有限制，没有提供installation-package目录）。
 
 > **注意**：若自带安装包不满足需求，可自行下载对应版本的免安装版（ZIP 格式），放入 `installation-package/` 对应子目录即可。
 
