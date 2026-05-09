@@ -199,3 +199,5 @@ pyinstaller --noconfirm --onedir --windowed --name "wwwoop-env" --add-data "asse
 ## 链接
 
 - 官网：[www.wwwoop.com](https://www.wwwoop.com)
+- Gitee 开源地址：[https://gitee.com/helloll/wwwoop-env](https://gitee.com/helloll/wwwoop-env)
+- GitHub 开源地址：[https://github.com/Json870422471/wwwoop-env](https://github.com/Json870422471/wwwoop-env)
