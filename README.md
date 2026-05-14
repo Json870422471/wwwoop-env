@@ -1,8 +1,7 @@
 # 编程开发环境搭建工具
 
 > 一键式编程环境集成工具，让你告别繁琐的环境配置，专注编码本身！
->
-> 🌐 更多IT学习资源，尽在 [www.wwwoop.com](https://www.wwwoop.com)（IT行业的书店）
+
 
 ## 项目简介
 
@@ -79,7 +78,10 @@ wwwoop-env/
 | PHP | php-8.5.5-nts-Win32-vs17-x64.zip | PHP 8.5 NTS x64 |
 | Composer | composer.zip | PHP 包管理工具 |
 
-> **注意**：由于安装包文件过大，`installation-package/` 目录中的安装包不会提交到仓库。请在项目的 **Releases** 中下载对应发行版本即可获取完整的内置安装包（Gitee 码云仓库文件大小有限制，没有提供installation-package目录）。
+> **注意**：由于安装包文件过大，`installation-package/` 目录不会上传到仓库。获取方式如下：
+> - **GitHub**：通过 [Releases](https://github.com/Json870422471/wwwoop-env/releases) 下载，包含完整的内置环境安装包
+> - **Gitee 码云**：因 Releases 文件大小有限制，无法提供 `installation-package/` 目录,目前只有编译后的 exe 可执行文件。
+> - **万物OOP平台**：可通过 [万物OOP平台](https://wwwoop.com/home/Index/projectInfo?goodsId=155&typeParam=3&subKey=2) 获取编译后的 exe 及内置环境安装包
 
 > **注意**：若自带安装包不满足需求，可自行下载对应版本的免安装版（ZIP 格式），放入 `installation-package/` 对应子目录即可。
 
