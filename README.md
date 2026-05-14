@@ -79,7 +79,7 @@ wwwoop-env/
 | Composer | composer.zip | PHP 包管理工具 |
 
 > **注意**：由于安装包文件过大，`installation-package/` 目录不会上传到仓库。获取方式如下：
-> - **GitHub**：通过 [https://github.com/Json870422471/wwwoop-env/releases](https://github.com/Json870422471/wwwoop-env/releases) 下载，包含完整的内置环境安装包
+> - **GitHub**：在 Releases 里下载，包含完整的内置环境安装包
 > - **Gitee 码云**：因 Releases 文件大小有限制，无法提供 `installation-package/` 目录,目前只有编译后的 exe 可执行文件。
 > - **万物OOP平台**：可通过 [https://wwwoop.com/home/Index/projectInfo?goodsId=155&typeParam=3&subKey=2](https://wwwoop.com/home/Index/projectInfo?goodsId=155&typeParam=3&subKey=2) 获取编译后的 exe 及内置环境安装包
 
